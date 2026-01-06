@@ -1,2 +1,2 @@
-# dogepedia.github.io
+# dogepedia.org
 Launching 2026
